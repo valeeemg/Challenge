@@ -13,7 +13,7 @@ Se calculó la facturación total de cada tienda sumando el precio de todos los 
 
 Este análisis permite identificar qué tienda genera mayores ingresos y cuál tiene menor volumen de ventas.
 
-(images/Ingresos_tiendas.png)
+![Ingresos por tienda](Images/Ingresos.png)
 
 ---
 
@@ -23,7 +23,7 @@ En este análisis se agruparon las ventas por **categoría de producto** para id
 
 Esto permite entender qué tipo de productos tienen mayor demanda y cuáles tienen menor rotación.
 
-(images/Top_productos.png)
+![Ventas por categoría](Images/Top_productos.png)
 
 ---
 
@@ -33,7 +33,7 @@ Se calculó la **calificación promedio de los clientes para cada tienda**, lo q
 
 Una mayor calificación promedio indica una mejor experiencia de compra.
 
-![Calificación promedio](images/Calificacion.png)
+![Calificación promedio](Images/Calificacion.png)
 
 ---
 # Conclusión
