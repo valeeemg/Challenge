@@ -23,7 +23,7 @@ En este análisis se agruparon las ventas por **categoría de producto** para id
 
 Esto permite entender qué tipo de productos tienen mayor demanda y cuáles tienen menor rotación.
 
-![Ventas por categoría](Images/)
+![Ventas por categoría](Images/Top_productos.png)
 
 ---
 
